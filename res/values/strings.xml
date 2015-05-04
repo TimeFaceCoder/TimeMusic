@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">时代金曲</string>
+    <string name="contentDescription"></string>
+    <string name="startPosition">00:00</string>
+    <string name="search_text"></string>
+    <string name="search_button">搜  索</string>
+    <string name="tip">您当前未连接wifi，播放将产生大量流量。</string>
+    <string name="x">X</string>
+	<string name="hotest">hotest</string>
+	<string name="favourite">favourite</string>
+	<string name="videolist">视频列表</string>
+    
+</resources>

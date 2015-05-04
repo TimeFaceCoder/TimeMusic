@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="custom_gray">#9c9c9c</color>
+    <color name="custom_blue">#76cdd0</color>
+    <color name="custom_tran_blue">#8876cdd0</color>
+    
+</resources>
